@@ -4,8 +4,6 @@ This is a menu-driven system designed to manage three main types of users:
 Students, Professors, and Administrators. Each user type has specific roles and responsibilities within the system.
 This system also features feedback submission and TA role.
 
-This Readme specifically contains the addons of assignment 2.
-
 ***
 
 ## How to run code:
